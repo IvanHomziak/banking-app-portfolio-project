@@ -1,0 +1,21 @@
+[submodule "bankingapp-transaction-ms"]
+	path = bankingapp-transaction-ms
+	url = https://github.com/IvanHomziak/bankingapp-transaction-ms.git
+[submodule "bankingapp-users-ms"]
+	path = bankingapp-users-ms
+	url = https://github.com/IvanHomziak/bankingapp-users-ms.git
+[submodule "bankingapp-cloud-api-gateway"]
+	path = bankingapp-cloud-api-gateway
+	url = https://github.com/IvanHomziak/bankingapp-cloud-api-gateway.git
+[submodule "bankingapp-api-config-server"]
+	path = bankingapp-api-config-server
+	url = https://github.com/IvanHomziak/bankingapp-api-config-server.git
+[submodule "bankingapp-discovery-service"]
+	path = bankingapp-discovery-service
+	url = https://github.com/IvanHomziak/bankingapp-discovery-service.git
+[submodule "bankingapp-common"]
+	path = bankingapp-common
+	url = https://github.com/IvanHomziak/bankingapp-common.git
+[submodule "bankingapp-client-account-ms"]
+	path = bankingapp-client-account-ms
+	url = https://github.com/IvanHomziak/bankingapp-client-account-ms.git
